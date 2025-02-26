@@ -1,4 +1,4 @@
-print("richard is a nice guy")
+print("richard is a very nice guy")
 
 print("java is better than python")
 
