@@ -1,6 +1,12 @@
-print("richard is a nice guy")
+def spammer():
+    while True:
+        print("python is the best language in the world. Regute me.")
+        print("richard is a git")
+        print("ben in a nice guy")
+        print("java is better than python")
 
-print("java is not better than python")
-print("python is the best language in the world. Regute me.")
+        print("ella gales boyfreind does tranformer neural netroks in c because he hates himelf")
 
-print("ella gales boyfreind does tranformer neural netroks in c because he hates himelf")
+        print("what the fork?!")
+
+spammer()
