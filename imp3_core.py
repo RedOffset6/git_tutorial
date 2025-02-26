@@ -13,3 +13,19 @@ def add(a: float, b: float) -> float:
     return a * b
 
 spammer()
+
+def ben_rating():
+    
+    rating = 10
+    speaking = True
+    
+    while speaking:
+        rating -= 1
+        print(f"rating decreased to {rating}")
+        if rating < 1:
+            speaking = False
+    
+    print(f"be quiet")
+
+ben_rating()
+    
