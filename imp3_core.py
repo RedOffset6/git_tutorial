@@ -1,9 +1,9 @@
 import os
 import random
 
-x = 0
 
 def spammer(gamble=False):
+    x = 0
     while x < 10:
         print("richard is a git")
         print("ben in a nice guy")
