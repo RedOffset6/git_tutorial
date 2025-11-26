@@ -8,6 +8,7 @@ def spammer():
         print("ella gales boyfreind does tranformer neural netroks in c because he hates himelf")
 
         print("what the fork?!")
+        print("hello_world")
         
 def add(a: float, b: float) -> float:
     return a * b
@@ -26,6 +27,22 @@ def ben_rating():
             speaking = False
     
     print(f"be quiet")
+
+def cool_function():
+    print(' _ ')
+    print("//\ ")
+    print("V  \")")
+    print("\  \_")
+    print("\,'.`-.")
+    print("|\ `. `.     ")  
+    print("( \  `. `-.                        _,.-:\")
+    print("\ \   `.  `-._             __..--' ,-';/")
+    print(" \ `.   `-.   `-..___..---'   _.--' ,'/")
+    print("  `. `.    `-._        __..--'    ,' /")
+    print("    `. `-_     ``--..''       _.-' ,'")
+    print("      `-_ `-.___        __,--'   ,'")
+    print("         `-.__  `----"""    __.-'")
+    print("hh           `--..____..--'")
 
 ben_rating()
     
