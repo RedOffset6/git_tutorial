@@ -28,4 +28,6 @@ def ben_rating():
     print(f"be quiet")
 
 ben_rating()
+
+print('Hello world')
     
