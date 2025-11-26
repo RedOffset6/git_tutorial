@@ -45,4 +45,6 @@ def cool_function():
     print("hh           `--..____..--'")
 
 ben_rating()
+
+print('Hello world')
     
