@@ -8,6 +8,7 @@ def spammer():
         print("ella gales boyfreind does tranformer neural netroks in c because he hates himelf")
 
         print("what the fork?!")
+        print("helloworld")
         
 def add(a: float, b: float) -> float:
     return a * b
