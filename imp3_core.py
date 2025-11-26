@@ -28,5 +28,21 @@ def ben_rating():
     
     print(f"be quiet")
 
+def cool_function():
+    print(' _ ')
+    print("//\ ")
+    print("V  \")")
+    print("\  \_")
+    print("\,'.`-.")
+    print("|\ `. `.     ")  
+    print("( \  `. `-.                        _,.-:\")
+    print("\ \   `.  `-._             __..--' ,-';/")
+    print(" \ `.   `-.   `-..___..---'   _.--' ,'/")
+    print("  `. `.    `-._        __..--'    ,' /")
+    print("    `. `-_     ``--..''       _.-' ,'")
+    print("      `-_ `-.___        __,--'   ,'")
+    print("         `-.__  `----"""    __.-'")
+    print("hh           `--..____..--'")
+
 ben_rating()
     
